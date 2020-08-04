@@ -1,0 +1,31 @@
+{
+    "title": "Xavi Segura",
+    "name": "xavi-segura",
+    "version": "4.0.10",
+    "description": "Xavi Segura personal blog",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "http://xavisegura.com/",
+    "license": "MIT",
+    "author": "Xavi Segura",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.5.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.5.1",
+        "startbootstrap-clean-blog": "5.0.9"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "gulp": "4.0.2"
+    }
+}

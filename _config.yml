@@ -1,0 +1,25 @@
+title:              Xavi Segura              
+email:              xavi@xavisegura.com
+description:        Personal Blog
+author:             XaviSegura
+baseurl:            "/xavisegura"
+url:                "http://xavisegura.com"
+
+# Social Profiles
+twitter_username:   xavi_segcri
+github_username:    xavisegura
+facebook_username:  600301640
+instagram_username: xavi_segcri 
+linkedin_username:  xavisegura
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
