@@ -2,7 +2,7 @@ title:              Xavi Segura
 email:              xavi@xavisegura.com
 description:        Personal Blog
 author:             XaviSegura
-baseurl:            "/xavisegura"
+baseurl:            "/"
 url:                "http://xavisegura.com"
 
 # Social Profiles
