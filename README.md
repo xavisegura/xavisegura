@@ -4,7 +4,7 @@
 
 Hi, I'm Xavi Segura, a Software Engineer passionated about Microsoft Technologies and Frontend development.
 
-- :computer: Techs: JavaScript, React, Angular, O365, SharePoint, Azure, .NET
+- :computer: Techs: JavaScript, React, Angular, M365, SharePoint, Azure, .NET
 - :pushpin: Interests: Microsoft, O365, Azure, Frontend development.
 
 ⭐️ From [xavisegura](https://github.com/xavisegura)
